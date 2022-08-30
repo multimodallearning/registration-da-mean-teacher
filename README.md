@@ -1,5 +1,5 @@
 # registration-da-mean-teacher
-Source code for our Miccai2022 paper 'Domain adaptive keypoint-based lung registration with the Mean Teacher'.
+Source code for our Miccai2022 paper [Adapting the Mean Teacher for keypoint-based lung registration under geometric domain shifts](https://arxiv.org/abs/2207.00371) [[pdf](https://arxiv.org/pdf/2207.00371.pdf)].
 
 ## Dependencies
 Please first install the following dependencies
