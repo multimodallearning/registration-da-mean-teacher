@@ -27,3 +27,16 @@ In the latter case, please ensure that the selected model matches the selected a
 For our model and the target-only under the 4dct_to_copd, please specify the model path as `models/4dct_to_copd_ours_fold{}.pth` or `models/4dct_to_copd_target-only_fold{}.pth`
 Models of the appropriate folds will be selected automatically.
 Using our models should reproduce the numerical results presented in Table 1 of our paper.
+
+## Citation
+If you find our code useful for your work, please cite the following paper
+```latex
+@inproceedings{bigalke2022adapting,
+  title={Adapting the Mean Teacher for keypoint-based lung registration under geometric domain shifts},
+  author={Bigalke, Alexander and Hansen, Lasse and Heinrich, Mattias P},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={280--290},
+  year={2022},
+  organization={Springer}
+}
+```
